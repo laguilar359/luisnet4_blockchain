@@ -1,0 +1,39 @@
+=============== Dec 22, 2020 (CST) ===============
+12:03:07.346789 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:03:07.374774 db@open opening
+12:03:07.380088 version@stat F·[] S·0B[] Sc·[]
+12:03:07.392944 db@janitor F·2 G·0
+12:03:07.393233 db@open done T·18.309699ms
+12:03:07.397283 db@close closing
+12:03:07.397448 db@close done T·162.395µs
+=============== Dec 22, 2020 (CST) ===============
+12:11:49.258145 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:11:49.258515 version@stat F·[] S·0B[] Sc·[]
+12:11:49.258572 db@open opening
+12:11:49.258675 journal@recovery F·1
+12:11:49.265097 journal@recovery recovering @1
+12:11:49.279652 memdb@flush created L0@2 N·15 S·1KiB "\x02\t\xef..\x94Ѹ,v5":"sec..\xe5\x98\xc8,v2"
+12:11:49.287434 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+12:11:49.334691 db@janitor F·3 G·0
+12:11:49.334759 db@open done T·76.157543ms
+20:06:02.119023 db@close closing
+20:06:02.119788 db@close done T·763.661µs
+=============== Dec 22, 2020 (CST) ===============
+20:07:00.267015 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:07:00.268734 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+20:07:00.268806 db@open opening
+20:07:00.268975 journal@recovery F·1
+20:07:00.279011 journal@recovery recovering @3
+20:07:00.298663 memdb@flush created L0@5 N·13 S·975B "Dat..ion,v17":"r\x00\x00..B\x8a\xf0,v23"
+20:07:00.309906 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+20:07:00.358551 db@janitor F·4 G·0
+20:07:00.358656 db@open done T·89.810331ms
+=============== Dec 22, 2020 (CST) ===============
+20:07:07.319304 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:07:07.319795 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+20:07:07.319865 db@open opening
+20:07:07.319995 journal@recovery F·1
+20:07:07.327470 journal@recovery recovering @6
+20:07:07.334453 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+20:07:07.377721 db@janitor F·4 G·0
+20:07:07.377898 db@open done T·57.97286ms
